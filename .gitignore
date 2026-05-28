@@ -21,6 +21,7 @@ frontend/yarn-error.log*
 # System Ignored Files
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
 package-lock.json
+config.bat
+node_modules

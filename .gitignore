@@ -1,0 +1,26 @@
+# Root Git Ignore for Full-Stack Tuition Center Management System
+
+# Backend Ignored Files
+backend/venv/
+backend/.env
+backend/__pycache__/
+backend/*.py[cod]
+backend/*.sqlite3
+
+# Frontend Ignored Files
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# System Ignored Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+package-lock.json
